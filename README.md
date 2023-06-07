@@ -1,6 +1,6 @@
 # EX-9 APPLICATION USING TCP SOCKETS - CREATING FOR CHAT CLIENT-SERVER
 
-DATE :03-05-2023
+DATE :02-05-2023
 
 # AIM :
 To write a python program for creating Chat using TCP Sockets Links.
